@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/rilaros/m4-lab2.git
+    repoURL: https://github.com/indra-devops-org/m4-lab2.git
     targetRevision: main
     path: overlays/production
   destination:
